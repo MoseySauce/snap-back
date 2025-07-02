@@ -1,0 +1,10 @@
+## Interface: 110107
+## Title: SnapBack
+## Notes: Reapplies active Edit Mode layout on login
+## Author: Mosey
+## Version: 1.0.0
+## SavedVariablesPerCharacter: SnapBackDB
+
+SnapBack_Util.lua
+SnapBack.lua
+SnapBack_Debug.lua
